@@ -1,6 +1,6 @@
 # NLP Assignment 2: DFA and FST
 
-This repository contains solutions for **NLP Assignment 2**, which involves constructing a **Deterministic Finite Automaton (DFA)** for simplified English words and a **Finite State Transducer (FST)** for generating morphological features from nouns.
+This directory contains solutions for **NLP Assignment 2**, which involves constructing a **Deterministic Finite Automaton (DFA)** for simplified English words and a **Finite State Transducer (FST)** for generating morphological features from nouns.
 
 ---
 
